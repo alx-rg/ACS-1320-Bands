@@ -1,0 +1,27 @@
+.band {
+  border: 1px solid black;
+  width: calc(100% - 20px);
+  margin: auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 10px;
+  padding: 10px;
+}
+
+.band-name {
+  font-style: italic;
+  color: darkgrey;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.formed {
+ font-variant: small-caps;
+}
+
+.origin {
+  color: rgb(20, 80, 0);
+}
+
+.fans {
+  font-family: 'Times New Roman', Times, serif;
+}

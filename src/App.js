@@ -1,23 +1,33 @@
 import logo from './logo.svg';
 import './App.css';
+import Header from './Header';
+import MetalMeta from './MetalMeta';
+import Band from './Band';
+import data from "./metal.json";
 
 function App() {
+
+  const bands = data.map(( {band_name, fans, formed, origin, split, style}) => {
+    fans = fans * 1000
+    return (
+      <Band 
+      band_name={band_name}
+      formed={formed}
+      origin={origin}
+      fans={fans.toLocaleString('en')}
+      split={split}
+      style={style}
+    />
+    )
+  }
+  )
+
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Header />
+      <MetalMeta />
+      <div className='band'>{bands}</div>      
     </div>
   );
 }

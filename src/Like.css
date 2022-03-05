@@ -1,0 +1,18 @@
+.Like {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+button {
+  width: 25px;
+  height: 25px;
+  background-color: #008700;
+  color: #f0f0f0 ;
+  border-style: none;
+}
+
+h2 {
+  margin: 0px 10px;
+}
