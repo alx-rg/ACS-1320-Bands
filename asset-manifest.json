@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ACS-1320-Bands/static/css/main.d361e45f.css",
-    "main.js": "/ACS-1320-Bands/static/js/main.c796cb2c.js",
+    "main.js": "/ACS-1320-Bands/static/js/main.6a0a4719.js",
     "static/js/787.bf28877e.chunk.js": "/ACS-1320-Bands/static/js/787.bf28877e.chunk.js",
     "index.html": "/ACS-1320-Bands/index.html",
     "main.d361e45f.css.map": "/ACS-1320-Bands/static/css/main.d361e45f.css.map",
-    "main.c796cb2c.js.map": "/ACS-1320-Bands/static/js/main.c796cb2c.js.map",
+    "main.6a0a4719.js.map": "/ACS-1320-Bands/static/js/main.6a0a4719.js.map",
     "787.bf28877e.chunk.js.map": "/ACS-1320-Bands/static/js/787.bf28877e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d361e45f.css",
-    "static/js/main.c796cb2c.js"
+    "static/js/main.6a0a4719.js"
   ]
 }
