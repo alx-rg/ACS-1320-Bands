@@ -6,13 +6,13 @@ function Like() {
 
 return (
   <div className='Like'>
-    <button onClick={()=>setLike(like-1)}>-</button>
+    <button onClick={()=>setLike(like-1)}>👎</button>
       <input
         type='Like'
         value={like}
         onChange={(e) => setLike(parseFloat(e.target.value))}
         />
-      <button onClick={()=>setLike(like+1)}>+</button>
+      <button onClick={()=>setLike(like+1)}>👍</button>
   </div>
 )
 
