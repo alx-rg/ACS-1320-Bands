@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ACS-1320-Bands/static/css/main.d361e45f.css",
-    "main.js": "/ACS-1320-Bands/static/js/main.6a0a4719.js",
-    "static/js/787.bf28877e.chunk.js": "/ACS-1320-Bands/static/js/787.bf28877e.chunk.js",
-    "index.html": "/ACS-1320-Bands/index.html",
-    "main.d361e45f.css.map": "/ACS-1320-Bands/static/css/main.d361e45f.css.map",
-    "main.6a0a4719.js.map": "/ACS-1320-Bands/static/js/main.6a0a4719.js.map",
-    "787.bf28877e.chunk.js.map": "/ACS-1320-Bands/static/js/787.bf28877e.chunk.js.map"
+    "main.css": "/ACS-1320-finals/static/css/main.d361e45f.css",
+    "main.js": "/ACS-1320-finals/static/js/main.b3c16007.js",
+    "static/js/787.bf28877e.chunk.js": "/ACS-1320-finals/static/js/787.bf28877e.chunk.js",
+    "index.html": "/ACS-1320-finals/index.html",
+    "main.d361e45f.css.map": "/ACS-1320-finals/static/css/main.d361e45f.css.map",
+    "main.b3c16007.js.map": "/ACS-1320-finals/static/js/main.b3c16007.js.map",
+    "787.bf28877e.chunk.js.map": "/ACS-1320-finals/static/js/787.bf28877e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d361e45f.css",
-    "static/js/main.6a0a4719.js"
+    "static/js/main.b3c16007.js"
   ]
 }
