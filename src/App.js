@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+// npm run deploy <- to update GH Page
 import './App.css';
 import Header from './Header';
 import MetalMeta from './MetalMeta';
